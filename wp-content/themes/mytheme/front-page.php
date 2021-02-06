@@ -1,15 +1,25 @@
 <?php
 /*
 *
-* Template Name: Strona glowna
+* Template Name: Strona glówna
 *
 */
 ?>
 
 <?php get_header(); ?>
 <main>
-  <h1>Front-page</h1>
-  <p>Duis non eros at purus fringilla rutrum. Nulla eget nulla eu lacus malesuada consequat sed id velit. Sed ultricies lorem varius neque posuere vehicula. In tempus tristique elit, mollis vulputate nisl aliquam et. Etiam vitae massa nisl. Donec tincidunt rutrum fermentum. Aenean erat dolor, sagittis at finibus non, rhoncus et sapien. In vitae sagittis tortor, vel pulvinar justo. Etiam ipsum leo, efficitur et lacinia non, maximus eu nisl. Vestibulum posuere, libero vitae lobortis rhoncus, metus odio tincidunt orci, non pretium augue purus et sapien.</p>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Roksana Dzioba</h1>
+        <h2>Front-end Developer</h2>
+        <button class="top__btn">
+          <a href="">Zobacz moje projekty</a>
+        </button>
+      </div>
+      <div class="col-12"></div>
+    </div>
+  </div>
 </main>
 <?php
 get_footer();
