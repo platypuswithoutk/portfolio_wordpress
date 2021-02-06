@@ -7,17 +7,22 @@
 ?>
 
 <?php get_header(); ?>
-<main>
+<main id="front-page">
   <div class="container">
     <div class="row">
-      <div class="col-12">
+      <div class="col-xl-6 col-lg-6 col-md-12 col-12">
         <h1>Roksana Dzioba</h1>
         <h2>Front-end Developer</h2>
         <button class="top__btn">
           <a href="">Zobacz moje projekty</a>
         </button>
       </div>
-      <div class="col-12"></div>
+
+      <div class="col-xl-6 col-lg-6 col-md-12 col-12">
+        <div class="front-page_img">
+          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/vectorstock_20002111.png'; ?>" alt="logo">
+        </div>
+      </div>
     </div>
   </div>
 </main>
