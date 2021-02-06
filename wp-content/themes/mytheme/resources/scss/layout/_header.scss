@@ -1,0 +1,65 @@
+header {
+    //background-image: url("../img/header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center; 
+    width:100%;
+
+    #menu_style {
+        align-items: center;
+
+        .logo {
+            img {
+                max-width: 100%;
+            }
+        }
+
+        .menu__list {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+        
+            #menu-menu-1 {
+                display: flex;
+
+                li {
+                    margin: 0 20px;
+                    font-size: 17px;
+                    padding: 10px 0;
+                    color: #545454;
+                }
+
+                li:last-of-type {
+                    margin-right: 30px;
+                }
+
+                li:hover {
+                    border-bottom: 1px solid #ff5757;
+                    transform: scale(1.1);
+                    
+                }
+            }
+
+            .social-icons {
+                i {
+                    margin: 0 5px 0 10px;
+                    font-size: 35px;
+                }
+
+                i.github {
+                    color: #24292e;
+                }
+
+                i.linkedin {
+                    color: #0a66c2;
+                }
+
+                i:hover {
+                    transform: scale(1.1);
+                }
+            }
+        }
+    }
+}
+
+
