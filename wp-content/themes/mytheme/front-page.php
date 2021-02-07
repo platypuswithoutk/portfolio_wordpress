@@ -9,12 +9,12 @@
 <?php get_header(); ?>
 <main id="front-page">
   <div class="container">
-    <div class="row">
-      <div class="col-xl-6 col-lg-6 col-md-12 col-12">
+    <div class="row" id="front-page-introduction">
+      <div class="col-xl-6 col-lg-6 col-md-12 col-12" id="col-introdution">
         <h1><span>R</span>oksana <span>D</span>zioba</h1>
         <h2>Front-end Developer</h2>
         <button class="top__btn">
-          <a href="">Zobacz moje projekty</a>
+          <a href="" class="btn btn4">Zobacz moje projekty</a>
         </button>
       </div>
 
