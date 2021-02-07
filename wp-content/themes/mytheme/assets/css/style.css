@@ -435,7 +435,7 @@ header {
         transform: scale(1.1); }
 
 #front-page {
-  padding: 100px 0;
+  padding: 70px 0;
   background-image: linear-gradient(135deg, #fdfcfb 0%, #e7d9ce 100%); }
   #front-page #front-page-introduction {
     align-items: center; }
@@ -465,10 +465,8 @@ header {
         color: #ff5757;
         transform: scale(1.1); }
 
-.front-page_img {
-  width: 50%; }
-  .front-page_img img {
-    max-width: 100%; }
+.front-page_img img {
+  max-width: 100%; }
 
 * {
   -webkit-font-smoothing: antialiased;

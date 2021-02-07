@@ -13,9 +13,14 @@
       <div class="col-xl-6 col-lg-6 col-md-12 col-12" id="col-introdution">
         <h1><span>R</span>oksana <span>D</span>zioba</h1>
         <h2>Front-end Developer</h2>
-        <button class="top__btn">
-          <a href="" class="btn btn4">Zobacz moje projekty</a>
-        </button>
+        <div class="buttons">
+          <button class="top__btn">
+            <a href="" class="btn">O mnie</a>
+          </button>
+          <button class="top__btn">
+            <a href="" class="btn">Moje projekty</a>
+          </button>
+        </div>
       </div>
 
       <div class="col-xl-6 col-lg-6 col-md-12 col-12">
