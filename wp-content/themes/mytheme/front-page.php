@@ -11,7 +11,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xl-6 col-lg-6 col-md-12 col-12">
-        <h1>Roksana Dzioba</h1>
+        <h1><span>R</span>oksana <span>D</span>zioba</h1>
         <h2>Front-end Developer</h2>
         <button class="top__btn">
           <a href="">Zobacz moje projekty</a>
