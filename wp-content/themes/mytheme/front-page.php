@@ -15,10 +15,10 @@
         <h2>Front-end Developer</h2>
         <div class="buttons">
           <button class="top__btn">
-            <a href="" class="btn">O mnie</a>
+            <a href="" class="btn btn-3">O mnie</a>
           </button>
           <button class="top__btn">
-            <a href="" class="btn">Moje projekty</a>
+            <a href="" class="btn btn-3">Moje projekty</a>
           </button>
         </div>
       </div>
