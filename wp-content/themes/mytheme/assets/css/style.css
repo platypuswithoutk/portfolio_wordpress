@@ -433,6 +433,12 @@ header {
       header #menu_style .menu__list .social-icons i:hover {
         transform: scale(1.1); }
 
+#footer-text {
+  background-color: #d3d2d2;
+  text-align: center;
+  padding: 20px 0;
+  border-top: 3px solid #545454; }
+
 #front-page {
   padding: 70px 0; }
   #front-page #front-page-introduction {
