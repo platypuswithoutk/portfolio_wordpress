@@ -27,7 +27,7 @@
         <div class="front-page_img">
           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/girl.png'; ?>" alt="logo">
         </div>
-      </div>
+      </div> 
     </div>
   </div>
 </main>
