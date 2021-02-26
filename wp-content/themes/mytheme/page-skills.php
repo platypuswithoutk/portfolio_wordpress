@@ -11,6 +11,8 @@
 <section id="skills">
     <div class="row">
       <div class="col-12">
+        <h1><?php the_title(); ?></h1>
+
         <h2>Projekty komerycjne</h2>
         <div class="projects__item">
             <ul class="portfolio_items">
