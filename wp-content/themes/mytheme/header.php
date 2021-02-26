@@ -36,6 +36,11 @@
                         <a href=""><i class="fab fa-github-square github"></i></a>
                         <a href=""><i class="fab fa-linkedin linkedin"></i></a>
                     </div>
+                    <div class="hamburger">
+                        <div class="line1"></div>
+                        <div class="line2"></div>
+                        <div class="line3"></div>
+                    </div>
                 </div>
                 
             </div>

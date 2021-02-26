@@ -401,8 +401,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  width: 100%;
-  background-image: linear-gradient(135deg, #fdfcfb 0%, #ede2d9 100%); }
+  width: 100%; }
   header #menu_style {
     align-items: center;
     border-bottom: 3px solid #545454; }
@@ -435,8 +434,7 @@ header {
         transform: scale(1.1); }
 
 #front-page {
-  padding: 70px 0;
-  background-image: linear-gradient(135deg, #fdfcfb 0%, #e7d9ce 100%); }
+  padding: 70px 0; }
   #front-page #front-page-introduction {
     align-items: center; }
     #front-page #front-page-introduction #col-introdution {
@@ -454,9 +452,9 @@ header {
         font-weight: 400;
         padding: 20px 0; }
       #front-page #front-page-introduction #col-introdution .top__btn {
-        border: 2px solid #ff5757;
-        background-color: #545454;
-        color: white;
+        border: 2px solid #5a5555;
+        background-color: transparent;
+        color: #5a5555;
         font-size: 16px;
         padding: 10px 20px;
         border-radius: 3.5rem / 100%; }
@@ -480,5 +478,6 @@ header {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Merriweather', serif; }
+  font-family: 'Merriweather', serif;
+  background-image: url("../img/marmur.jpg"); }
 
