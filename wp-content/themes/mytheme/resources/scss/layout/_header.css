@@ -3,11 +3,12 @@ header {
   background-size: cover;
   background-position: center;
   width: 100%;
+  background-image: url("../img/wave.svg");
+  height: 200px;
 }
 
 header #menu_style {
   align-items: center;
-  border-bottom: 3px solid #545454;
 }
 
 header #menu_style .logo img {
