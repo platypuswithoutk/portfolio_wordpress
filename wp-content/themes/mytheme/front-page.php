@@ -14,6 +14,7 @@
         <div class="about-box">
           <h1><span>R</span>oksana <span>D</span>zioba</h1>
           <h2>Cześć! Dziękuję za odwiedziny mojej strony. Jestem szybko i chętnie rozwijającym się Front-end Developerem z Krakowa. Jeżeli jesteś zainteresowany, poznaj mnie lepiej </h2>
+          <div class="box"></div>
         
           <div class="buttons">
             <button class="top__btn">
