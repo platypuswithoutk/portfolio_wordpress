@@ -485,12 +485,10 @@ header {
           background-color: transparent;
           color: #5a5555;
           font-size: 16px;
-          padding: 10px 20px;
-          border-radius: 3.5rem / 100%; }
+          padding: 10px 20px; }
         #front-page #front-page-introduction #col-introdution .about-box .buttons .top__btn:hover {
           border: 2px solid #545454;
-          color: #ff5757;
-          transform: scale(1.1); }
+          color: #ff5757; }
 
 .front-page_img img {
   max-width: 100%; }

@@ -10,15 +10,11 @@
   border-right-color: #91b3fa;
   animation: move 1000ms linear infinite alternate;
 
-@keyframes move { 
-  0% {top: 220px;}
-    
-  100% {
-    top: 250px;
-  }
-    
-}
-    
+    @keyframes move { 
+    0% {top: 220px;}
+        
+    100% {top: 250px;}
+    }
 }
 
 #front-page {
@@ -61,13 +57,13 @@
                     color: #5a5555;
                     font-size: 16px;
                     padding: 10px 20px;
-                    border-radius: 3.5rem / 100%;
+                    //border-radius: 3.5rem / 100%;
                 }
      
                 .top__btn:hover {
                     border: 2px solid #545454;
                     color: #ff5757;
-                    transform: scale(1.1);
+                   
                 } 
             }
         } 
