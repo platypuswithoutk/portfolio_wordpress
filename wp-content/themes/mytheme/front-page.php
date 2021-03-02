@@ -13,7 +13,7 @@
       <div class="col-xl-6 col-lg-6 col-md-12 col-12" id="col-introdution">
         <div class="about-box">
           <h1><span>R</span>oksana <span>D</span>zioba</h1>
-          <h2>Front-end Developer</h2>
+          <h2>Cześć! Dziękuję za odwiedziny mojej strony. Jestem szybko i chętnie rozwijającym się Front-end Developerem z Krakowa. Jeżeli jesteś zainteresowany, poznaj mnie lepiej </h2>
         
           <div class="buttons">
             <button class="top__btn">

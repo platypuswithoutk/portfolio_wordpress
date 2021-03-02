@@ -6,10 +6,9 @@
        align-items: center;
 
        #col-introdution {
-           padding-left: 70px;
 
            .about-box {
-               padding: 30px;
+               padding: 30px 60px;
 
                h1 {
                 font-size: 35px;
@@ -26,6 +25,8 @@
                 color: #545454;
                 font-weight: 400;
                 padding: 20px 0;
+                line-height: 30px;
+                letter-spacing: 0.2px;
             }
  
             .top__btn {
