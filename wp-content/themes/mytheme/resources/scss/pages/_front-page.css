@@ -1,5 +1,6 @@
 #front-page {
-  padding-bottom: 70px;
+  padding: 0px 0 70px 0;
+  margin-top: -100px;
 }
 
 #front-page #front-page-introduction {
@@ -10,25 +11,29 @@
   padding-left: 70px;
 }
 
-#front-page #front-page-introduction #col-introdution h1 {
+#front-page #front-page-introduction #col-introdution .about-box {
+  padding: 30px;
+}
+
+#front-page #front-page-introduction #col-introdution .about-box h1 {
   font-size: 35px;
   color: #545454;
   font-weight: 700;
   padding: 0 0 20px 0;
 }
 
-#front-page #front-page-introduction #col-introdution span {
+#front-page #front-page-introduction #col-introdution .about-box span {
   color: #ff5757;
 }
 
-#front-page #front-page-introduction #col-introdution h2 {
+#front-page #front-page-introduction #col-introdution .about-box h2 {
   font-size: 20px;
   color: #545454;
   font-weight: 400;
   padding: 20px 0;
 }
 
-#front-page #front-page-introduction #col-introdution .top__btn {
+#front-page #front-page-introduction #col-introdution .about-box .top__btn {
   border: 2px solid #5a5555;
   background-color: transparent;
   color: #5a5555;
@@ -37,7 +42,7 @@
   border-radius: 3.5rem / 100%;
 }
 
-#front-page #front-page-introduction #col-introdution .top__btn:hover {
+#front-page #front-page-introduction #col-introdution .about-box .top__btn:hover {
   border: 2px solid #545454;
   color: #ff5757;
   transform: scale(1.1);

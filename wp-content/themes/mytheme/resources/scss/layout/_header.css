@@ -4,7 +4,7 @@ header {
   background-position: center;
   width: 100%;
   background-image: url("../img/wave.svg");
-  height: 200px;
+  height: 300px;
 }
 
 header #menu_style {
@@ -27,7 +27,7 @@ header #menu_style .menu__list #menu-menu-1 {
 
 header #menu_style .menu__list #menu-menu-1 li {
   margin: 0 20px;
-  font-size: 17px;
+  font-size: 18px;
   padding: 10px 0;
   color: #545454;
 }
@@ -38,7 +38,7 @@ header #menu_style .menu__list #menu-menu-1 li:last-of-type {
 
 header #menu_style .menu__list #menu-menu-1 li:hover {
   border-bottom: 1px solid #ff5757;
-  transform: scale(1.1);
+  text-shadow: 1px 1px 1px black;
 }
 
 header #menu_style .menu__list .social-icons i {
