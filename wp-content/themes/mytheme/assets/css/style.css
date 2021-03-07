@@ -535,19 +535,29 @@ footer {
   max-width: 100%; }
 
 #skills-introdution {
-  justify-content: center; }
+  justify-content: center;
+  align-items: center; }
 
 button.button.type3.link {
   margin: 30px; }
 
 .main-skills {
   padding-top: 70px;
-  column-count: 3;
-  text-align: center; }
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
   .main-skills .skill-card {
-    padding: 0 20px; }
+    margin: 0 20px;
+    -webkit-box-shadow: 1px -1px 15px 5px #0587FF;
+    box-shadow: 1px -1px 15px 5px #0587FF;
+    width: 120px; }
     .main-skills .skill-card p {
-      font-size: 18px; }
+      font-size: 18px;
+      padding: 20px 0; }
+    .main-skills .skill-card i {
+      padding-top: 20px;
+      font-size: 60px; }
 
 .portfolio_items {
   list-style: none;

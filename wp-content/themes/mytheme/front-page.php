@@ -42,8 +42,8 @@
             <p>Wordpress</p>
           </div>
           <div class="skill-card">
-            <i class="fab fa-bootstrap"></i>
-            <p>Bootstrap</p>
+            <i class="fab fa-react"></i>
+            <p>React</p>
           </div>
           <div class="skill-card">
             <i class="fab fa-js"></i>
@@ -54,8 +54,8 @@
             <p>Sass</p>
           </div>
           <div class="skill-card">
-            <i class="fab fa-react"></i>
-            <p>React</p>
+            <i class="fab fa-bootstrap"></i>
+            <p>Bootstrap</p>
           </div>
           <div class="skill-card">
             <i class="fab fa-html5"></i>
