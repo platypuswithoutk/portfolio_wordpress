@@ -33,6 +33,21 @@
         </div>
       </div> 
     </div>
+
+    <div class="row" id="skills-introdution">
+      <div class="col-12 col-lg-12 col-md-6"
+        <div class="main-skills">
+
+        </div>
+      </div>
+      <div class="anchors">
+        <a href="">Zobacz więcej</a>
+        <a href="">Moje projekty</a>
+        <a href="">Doświadczenie</a>
+      </div>
+
+    </div>
+
   </div>
 </main>
 <?php
