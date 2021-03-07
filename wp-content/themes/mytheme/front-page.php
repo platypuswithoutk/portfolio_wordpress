@@ -57,10 +57,16 @@
           </div>
         </div>
       </div>
-      <div class="anchors">
-        <a href="">Zobacz więcej</a>
-        <a href="">Moje projekty</a>
-        <a href="">Doświadczenie</a>
+      <div class="buttons anchors">
+          <button class="button type3 link">
+            <a href="" class="btn btn-3">Zobacz więcej</a>
+          </button>
+          <button class="button type3 link">
+            <a href="" class="btn btn-3">Moje doświadczenie</a>
+          </button>
+          <button class="button type3 link">
+            <a href="" class="btn btn-3">Moje projekty</a>
+          </button>
       </div>
 
     </div>

@@ -372,6 +372,51 @@ textarea {
 }
 
 
+.buttons {
+  padding-top: 45px; }
+  .buttons .button {
+    position: relative;
+    padding: 1em 1.5em;
+    border: none;
+    background-color: transparent;
+    font-weight: bolder;
+    cursor: pointer;
+    outline: none;
+    font-size: 18px;
+    margin: 1em 0.8em; }
+    .buttons .button.type3 {
+      color: #545454; }
+    .buttons .button.type3::after, .buttons .button.type3::before {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 20%;
+      height: 20%;
+      border: 2px solid;
+      transition: all 0.6s ease;
+      border-radius: 2px; }
+    .buttons .button.type3::after {
+      bottom: 0;
+      right: 0;
+      border-top-color: transparent;
+      border-left-color: transparent;
+      border-bottom-color: #91b3fa;
+      border-right-color: #91b3fa; }
+    .buttons .button.type3::before {
+      top: 0;
+      left: 0;
+      border-bottom-color: transparent;
+      border-right-color: transparent;
+      border-top-color: #91b3fa;
+      border-left-color: #91b3fa; }
+    .buttons .button.type3:hover:after, .buttons .button.type3:hover:before {
+      border-bottom-color: #91b3fa;
+      border-right-color: #91b3fa;
+      border-top-color: #ff5757;
+      border-left-color: #ff5757;
+      width: 100%;
+      height: 100%; }
+
 /**
  * Basic typography style for copy text
  */
@@ -465,7 +510,7 @@ footer {
     top: 250px; } }
 
 #front-page {
-  padding: 0px 0 70px 0;
+  padding: 0px;
   margin-top: -100px; }
   #front-page #front-page-introduction {
     align-items: center; }
@@ -485,53 +530,24 @@ footer {
         padding: 20px 0;
         line-height: 30px;
         letter-spacing: 0.2px; }
-      #front-page #front-page-introduction #col-introdution .about-box .buttons {
-        padding-top: 45px; }
-        #front-page #front-page-introduction #col-introdution .about-box .buttons .button {
-          position: relative;
-          padding: 1em 1.5em;
-          border: none;
-          background-color: transparent;
-          font-weight: bolder;
-          cursor: pointer;
-          outline: none;
-          font-size: 18px;
-          margin: 1em 0.8em; }
-          #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3 {
-            color: #545454; }
-          #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3::after, #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3::before {
-            content: '';
-            display: block;
-            position: absolute;
-            width: 20%;
-            height: 20%;
-            border: 2px solid;
-            transition: all 0.6s ease;
-            border-radius: 2px; }
-          #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3::after {
-            bottom: 0;
-            right: 0;
-            border-top-color: transparent;
-            border-left-color: transparent;
-            border-bottom-color: #91b3fa;
-            border-right-color: #91b3fa; }
-          #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3::before {
-            top: 0;
-            left: 0;
-            border-bottom-color: transparent;
-            border-right-color: transparent;
-            border-top-color: #91b3fa;
-            border-left-color: #91b3fa; }
-          #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3:hover:after, #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3:hover:before {
-            border-bottom-color: #91b3fa;
-            border-right-color: #91b3fa;
-            border-top-color: #ff5757;
-            border-left-color: #ff5757;
-            width: 100%;
-            height: 100%; }
 
 .front-page_img img {
   max-width: 100%; }
+
+#skills-introdution {
+  justify-content: center; }
+
+button.button.type3.link {
+  margin: 30px; }
+
+.main-skills {
+  padding-top: 70px;
+  column-count: 3;
+  text-align: center; }
+  .main-skills .skill-card {
+    padding: 0 20px; }
+    .main-skills .skill-card p {
+      font-size: 18px; }
 
 .portfolio_items {
   list-style: none;
