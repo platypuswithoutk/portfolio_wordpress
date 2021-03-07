@@ -35,9 +35,26 @@
     </div>
 
     <div class="row" id="skills-introdution">
-      <div class="col-12 col-lg-12 col-md-6"
+      <div class="col-12 col-lg-12 col-md-6">
         <div class="main-skills">
-
+          <div class="skill-card">
+            <p>Wordpress</p>
+          </div>
+          <div class="skill-card">
+            <p>Bootstrap</p>
+          </div>
+          <div class="skill-card">
+            <p>JavaScript</p>
+          </div>
+          <div class="skill-card">
+            <p>SCSS</p>
+          </div>
+          <div class="skill-card">
+            <p>React</p>
+          </div>
+          <div class="skill-card">
+            <p>jQuery</p>
+          </div>
         </div>
       </div>
       <div class="anchors">

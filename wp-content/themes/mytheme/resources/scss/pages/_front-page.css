@@ -54,7 +54,7 @@
 }
 
 #front-page #front-page-introduction #col-introdution .about-box .buttons {
-  padding-top: 60px;
+  padding-top: 45px;
 }
 
 #front-page #front-page-introduction #col-introdution .about-box .buttons .button {
@@ -70,7 +70,7 @@
 }
 
 #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3 {
-  color: #ff5757;
+  color: #545454;
 }
 
 #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3::after, #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3::before {
@@ -89,8 +89,8 @@
   right: 0;
   border-top-color: transparent;
   border-left-color: transparent;
-  border-bottom-color: blue;
-  border-right-color: black;
+  border-bottom-color: #91b3fa;
+  border-right-color: #91b3fa;
 }
 
 #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3::before {
@@ -98,15 +98,15 @@
   left: 0;
   border-bottom-color: transparent;
   border-right-color: transparent;
-  border-top-color: blue;
-  border-left-color: blue;
+  border-top-color: #91b3fa;
+  border-left-color: #91b3fa;
 }
 
 #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3:hover:after, #front-page #front-page-introduction #col-introdution .about-box .buttons .button.type3:hover:before {
-  border-bottom-color: blue;
-  border-right-color: blue;
-  border-top-color: red;
-  border-left-color: red;
+  border-bottom-color: #91b3fa;
+  border-right-color: #91b3fa;
+  border-top-color: #ff5757;
+  border-left-color: #ff5757;
   width: 100%;
   height: 100%;
 }
