@@ -1,6 +1,9 @@
 #footer-text {
-  background-color: #e9effd;
+  background-image: url("../img/wave1.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 300px;
   text-align: center;
-  padding: 20px 0;
-  border-top: 3px solid #545454;
 }

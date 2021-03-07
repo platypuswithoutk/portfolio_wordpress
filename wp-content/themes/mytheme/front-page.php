@@ -17,10 +17,10 @@
           <div class="box"></div>
         
           <div class="buttons">
-            <button class="top__btn">
+            <button class="button type3">
               <a href="" class="btn btn-3">O mnie</a>
             </button>
-            <button class="top__btn">
+            <button class="button type3">
               <a href="" class="btn btn-3">Moje projekty</a>
             </button>
           </div>
