@@ -1,7 +1,7 @@
 <footer>
   <div class="row">
     <div class="col-12" id="footer-text">
-      <span class="copy">Copyrights. All rights reserved.</span>
+      <div class="copy">Copyrights. All rights reserved.</div>
     </div>
   </div>
 </footer>
