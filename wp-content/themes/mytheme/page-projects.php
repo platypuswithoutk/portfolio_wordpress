@@ -27,7 +27,7 @@
                         </li>
                         <li class="portfolio_card" id="rehabilitacja">
                             <figure>
-                                <a href=""><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/covid.png'; ?>" alt="I am an example of a work image"></a>
+                                <a href=""><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/covid(2).png'; ?>" alt="I am an example of a work image"></a>
                             </figure>
                             <div class="caption">
                                 <a href="" target="_blank" title="Rehabilitacja Covid" aria-describedby="desc-rehabilitacja"><h3>Rehabilitacja Covid</h3></a>
@@ -67,7 +67,7 @@
         </div>
 
         <div class="row private">
-            <div class="section_title no"><h2>Projekty komerycjne</h2></div>
+            <div class="section_title no"><h2>Projekty niekomerycjne</h2></div>
         </div>
     </div>
 
