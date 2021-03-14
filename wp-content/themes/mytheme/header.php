@@ -35,8 +35,8 @@
                     ?>
                     </nav>
                     <div class="social-icons">
-                        <a href=""><i class="fab fa-github-square github"></i></a>
-                        <a href=""><i class="fab fa-linkedin linkedin"></i></a>
+                        <a href="https://github.com/platypuswithoutk"><i class="fab fa-github-square github"></i></a>
+                        <a href="https://www.linkedin.com/in/roksana-dzioba-268a33156/"><i class="fab fa-linkedin linkedin"></i></a>
                     </div>
                     <div class="hamburger">
                         <div class="line1"></div>
