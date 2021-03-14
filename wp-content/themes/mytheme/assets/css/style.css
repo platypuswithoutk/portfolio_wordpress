@@ -580,13 +580,18 @@ button.button.type3.link {
   display: flex;
   flex-direction: column; }
 
-#centrica {
-  border-top: 4px solid #76163b; }
+#smart {
+  border-top: 4px solid #B09D8D; }
 
-#diageocoupa {
-  border-top: 4px solid #afb744; }
+#rehabilitacja {
+  border-top: 4px solid #D7FC97; }
 
-/*CARD CAPTION*/
+#april {
+  border-top: 4px solid #B0A96A; }
+
+#multidom {
+  border-top: 4px solid #FCDBBD; }
+
 .portfolio_card .caption {
   text-align: center;
   padding: 16px;
@@ -601,12 +606,11 @@ button.button.type3.link {
 .portfolio_card .caption:nth-last-child(2) {
   margin-top: 0.75rem; }
 
-.portfolio_card .caption h2, .portfolio_card .caption p, .portfolio_card .caption span {
-  font-family: Lato;
+.portfolio_card .caption h3, .portfolio_card .caption p, .portfolio_card .caption span {
   color: #6c6b5f;
   line-height: 24px; }
 
-.portfolio_card .caption h2 {
+.portfolio_card .caption h3 {
   font-weight: 800;
   margin: 0px 0px 8px 0px; }
 
@@ -625,7 +629,6 @@ button.button.type3.link {
   opacity: 0;
   transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1); }
 
-/*CARD IMAGES*/
 .portfolio_card figure {
   overflow: hidden;
   margin: 0;
@@ -642,7 +645,6 @@ button.button.type3.link {
   height: 100%;
   object-fit: cover; }
 
-/*CARD HOVER STATES & LINKS*/
 .portfolio_card a, .portfolio_card a:visited {
   text-decoration: none; }
 
@@ -665,24 +667,17 @@ button.button.type3.link {
   top: 5em;
   opacity: 1; }
 
-/*CARD FOCUS STATES*/
-.portfolio_card a:focus {
+.portfolio_card a:focus, .portfolio_card h3 a:focus {
   text-decoration: underline; }
 
 .portfolio_card:focus-within {
   box-shadow: 0 0 0 0 0.25rem; }
 
-.portfolio_card:focus-within a:focus {
+.portfolio_card:focus-within a:focus, .portfolio_card:focus-within h3 a:focus {
   text-decoration: none; }
 
-.portfolio_card h2 a:focus {
-  text-decoration: underline; }
-
-.portfolio_card h2:focus-within ~ .cta {
+.portfolio_card h3:focus-within ~ .cta {
   box-shadow: 0 0 0 0.125rem; }
-
-.portfolio_card:focus-within h2 a:focus {
-  text-decoration: none; }
 
 * {
   -webkit-font-smoothing: antialiased;
