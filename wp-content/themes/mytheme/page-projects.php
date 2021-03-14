@@ -17,7 +17,7 @@
                     <ul class="portfolio_items">
                         <li class="portfolio_card" id="smart">
                             <figure>
-                                <a href=""><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></a>
+                                <a href=""><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/smart1.png'; ?>" alt="I am an example of a work image"></a>
                             </figure>
                             <div class="caption">
                                 <a href="" target="_blank" title="Smart Electric" aria-describedby="desc-smart"><h3>Smart Electric</h3></a>
