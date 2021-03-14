@@ -71,7 +71,7 @@
             <a href="" class="btn btn-3">Moje doświadczenie</a>
           </button>
           <button class="button type3 link">
-            <a href="" class="btn btn-3">Moje projekty</a>
+            <a href="" class="btn btn-3">Kontakt</a>
           </button>
       </div>
 
