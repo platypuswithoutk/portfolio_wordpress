@@ -16,7 +16,9 @@
                 <div class="projects__item">
                     <ul class="portfolio_items">
                         <li class="portfolio_card" id="smart">
-                            <figure><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></figure>
+                            <figure>
+                                <a href=""><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></a>
+                            </figure>
                             <div class="caption">
                                 <a href="" target="_blank" title="Smart Electric" aria-describedby="desc-smart"><h3>Smart Electric</h3></a>
                                 <p>Strona interentowa dla firmy Smart Electric</p>
@@ -24,7 +26,9 @@
                             </div>
                         </li>
                         <li class="portfolio_card" id="rehabilitacja">
-                            <figure><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></figure>
+                            <figure>
+                                <a href=""><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></a>
+                            </figure>
                             <div class="caption">
                                 <a href="" target="_blank" title="Rehabilitacja Covid" aria-describedby="desc-rehabilitacja"><h3>Rehabilitacja Covid</h3></a>
                                 <p>Strona interentowa dla firmy oferującej rehabilitację oddechową</p>
@@ -38,7 +42,9 @@
                 <div class="projects__item">
                     <ul class="portfolio_items">
                     <li class="portfolio_card" id="april">
-                            <figure><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></figure>
+                            <figure>
+                                <a href=""><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></a>
+                            </figure>
                             <div class="caption">
                                 <a href="" target="_blank" title="April Development" aria-describedby="desc-april"><h3>April Development</h3></a>
                                 <p>Strona interentowa dla firmy April Development</p>
@@ -46,7 +52,9 @@
                             </div>
                         </li>
                         <li class="portfolio_card" id="multidom">
-                            <figure><img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></figure>
+                            <figure>
+                                <img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></a>
+                            </figure>
                             <div class="caption">
                                 <a href="" target="_blank" title="Multidom" aria-describedby="desc-multidom"><h3>Multidom</h3></a>
                                 <p>Strona interentowa dla firmy Multidom</p>
@@ -59,7 +67,7 @@
         </div>
 
         <div class="row private">
-            <h2>Projekty niekomercyjne</h2>
+            <div class="section_title no"><h2>Projekty komerycjne</h2></div>
         </div>
     </div>
 
