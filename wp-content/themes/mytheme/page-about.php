@@ -10,31 +10,33 @@
 get_header();
 ?>
 <section id="about">
+    <div class="container">
     <div class="row" class="about">
-      <div class="col-12" class="about-desc">
+      <div class="col-6" class="about-desc">
         <h2>Witam na mojej stronie!</h2>
-        <p></p>
+        <p>Nazywam się Roksana Dzioba i naukę kodowania stron internetowych rozpoczęłam około półtora roku temu.</p>
+        <p>Od listopada 2019 roku biorę udział w różnych kursach dażąc do poszerzenia moich kompetencji, poprzez poznawanie najnowszych rozwiązań czy technologii programistycznych. Wzięłam także udział w projekcie typu Open Source.
+        <p>Aktualnie zdobywam komercyjne doświadczenie pracując dla firmy Millenium Studio z Krakowa, gdzie zajmuje się kodowaniem stron internetowych oraz sklepów.</p>
       </div>
-      <div class="col-12" class="photo">
+      <div class="col-6" class="photo">
         <img src="" alt="personal photo">
       </div>
     </div>
 
-    <div class="row" class="exp">
+    <div class="row" id="exp">
         <div class="col-12">
+            <h2>Doświadczenie zawodowe</h2>
             
         <div class="timeline-area">
-	<div class="container">
-		<div class="timelines">
-			<h2>Timelines</h2>
-		</div>
+	        <div class="container">
+		
 		<div class="all-timelines">
 			<!--SINGLE TIMELINE-->
 			<div class="single-timeline d-flex-2">
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<h6>April 2019</h6> — The launch of Aryacoin; AYA ICO, resulting in over 30BTC collected
+						<h6>Kwiecień 2021</h6> Front-end Developer, Millenium Studio, Kraków
 					</span>
 					<div class="t-square"></div>
 				</div>
@@ -44,7 +46,7 @@ get_header();
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<h6>December 2019 </h6>— The launch of AYA Pay
+						<h6>Grudzień 2020 - Marzec 2021</h6> Stażysta - Junior Front-end Developer, Millenium Studio, Kraków
 					</span>
 					<div class="t-square"></div>
 				</div>
@@ -54,7 +56,16 @@ get_header();
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<h6>April 2020</h6> — The successful Hamedan Hardfork, supported by all AYA exchanges, aimed at integrating the dPoW algorithm, improving the security of the AYA blockchain.
+						<h6>Marzec 2020 - Sierpień 2020</h6> Uczestnik kursu Javascript/Front-end Mentoring Program in Poland, Epam, zdalnie
+					<div class="t-square"></div>
+				</div>
+			</div>
+			<!--SINGLE TIMELINE-->
+			<div class="single-timeline d-flex-2">
+				<div class="timeline-blank"></div>
+				<div class="timeline-text d-flex-2">
+					<span>
+						<h6>Listopad 2019 - Luty 2020</h6> Uczestnik kursu Front-end Developer, Akademia 108, Kraków
 					</span>
 					<div class="t-square"></div>
 				</div>
@@ -64,7 +75,7 @@ get_header();
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<h6>June 2020</h6> — Aryna Exchange goes live, opening more trading opportunities globally
+						<h6>Styczeń 2019 - Wrzesień 2019</h6> Content & SEO Manager, STBI sp. z o.o., Kraków
 					</span>
 					<div class="t-square"></div>
 				</div>
@@ -74,7 +85,7 @@ get_header();
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<h6>July 2020</h6> — The enabling of our Coin Exchanger
+						<h6>Maj 2017 - Grudzień 2019</h6> Barman, Moo Moo Steak & Wine, Kraków
 					</span>
 					<div class="t-square"></div>
 				</div>
@@ -84,17 +95,7 @@ get_header();
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<h6>November 2020</h6> — The implementation of Smart Contracts into the Aryacoin Ecosystem
-					</span>
-					<div class="t-square"></div>
-				</div>
-			</div>
-			<!--SINGLE TIMELINE-->
-			<div class="single-timeline d-flex-2">
-				<div class="timeline-blank"></div>
-				<div class="timeline-text d-flex-2">
-					<span>
-						<h6>Q1 2021</h6> — Alef B goes live (more details coming soon)
+						<h6>Wrzesień 2015 - Maj 2017</h6> Barista/Barman, Wentzl, Kraków
 					</span>
 					<div class="t-square"></div>
 				</div>
@@ -103,6 +104,7 @@ get_header();
 	</div>
            
         </div>
+    </div>
     </div>
 </section>
 <?php

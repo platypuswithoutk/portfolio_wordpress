@@ -704,6 +704,12 @@ img.img {
 .portfolio_card h3:focus-within ~ .cta {
   box-shadow: 0 0 0 0.125rem; }
 
+.page-template-page-about #exp h2 {
+  text-align: center;
+  font-size: 24px;
+  padding-bottom: 50px;
+  color: #545454; }
+
 .page-template-page-about ul {
   list-style: none;
   margin: 0 !important; }
@@ -730,19 +736,12 @@ img.img {
   box-sizing: border-box;
   margin: 0 auto; }
 
-.page-template-page-about .timelines h2 {
-  text-align: center;
-  color: #fff;
-  font-weight: 600;
-  margin-bottom: 40px;
-  font-size: 32px; }
-
 .page-template-page-about .d-flex-2 {
   display: flex;
   align-items: center; }
 
 .page-template-page-about .timeline-area {
-  padding: 80px 0; }
+  padding: 20px 0 20px 0; }
 
 .page-template-page-about .all-timelines {
   position: relative; }
@@ -772,6 +771,7 @@ img.img {
 
 .page-template-page-about .timeline-text {
   width: 50%;
+  padding-top: 3px;
   padding-left: 30px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -784,7 +784,7 @@ img.img {
   font-size: 1rem; }
 
 .page-template-page-about .timeline-text span {
-  color: #a2103c;
+  color: #633d48;
   display: block;
   width: 100%; }
 
@@ -795,6 +795,7 @@ img.img {
   content: "";
   position: absolute;
   width: 12px;
+  top: 30%;
   height: 12px;
   left: -6px;
   background: #efa22f; }
