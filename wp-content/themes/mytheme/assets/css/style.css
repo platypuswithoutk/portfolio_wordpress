@@ -463,7 +463,8 @@ header {
           margin: 0 20px;
           font-size: 18px;
           padding: 10px 0;
-          color: #545454; }
+          color: #545454;
+          outline: none; }
         header #menu_style .menu__list #menu-menu-1 li:last-of-type {
           margin-right: 30px; }
         header #menu_style .menu__list #menu-menu-1 li:hover {
