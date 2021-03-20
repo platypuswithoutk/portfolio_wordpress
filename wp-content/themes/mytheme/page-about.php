@@ -17,6 +17,7 @@ get_header();
         <p>Nazywam się Roksana Dzioba i naukę kodowania stron internetowych rozpoczęłam około półtora roku temu.</p>
         <p>Od listopada 2019 roku biorę udział w różnych kursach dażąc do poszerzenia moich kompetencji, poprzez poznawanie najnowszych rozwiązań czy technologii programistycznych. Wzięłam także udział w projekcie typu Open Source.
         <p>Aktualnie zdobywam komercyjne doświadczenie pracując dla firmy Millenium Studio z Krakowa, gdzie zajmuje się kodowaniem stron internetowych oraz sklepów.</p>
+        <p>W wolnym czasie, poza programowaniem, interesuje się jeszcze siatkówką, kawą oraz uwielbiam sudoku. </p>
       </div>
       <div class="col-6" class="photo">
         <img src="" alt="personal photo">
