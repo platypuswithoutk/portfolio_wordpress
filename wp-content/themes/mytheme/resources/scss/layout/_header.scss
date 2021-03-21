@@ -31,6 +31,7 @@ header {
                     padding: 10px 0;
                     color: #545454;
                     outline: none;
+                    width: fit-content;
                 }
 
                 li:last-of-type {
@@ -39,6 +40,7 @@ header {
 
                 li:hover{    
                     text-shadow: 0px 0px  black;
+                    
                 }
             }
 
