@@ -1,3 +1,7 @@
+.page-template-page-about #about-desc {
+  padding-bottom: 70px;
+}
+
 .page-template-page-about h2 {
   text-align: center;
   font-size: 24px;
@@ -27,6 +31,8 @@
   font-size: 14px;
   line-height: 26px;
   margin: 0;
+  text-align: left;
+  padding-bottom: 13px;
 }
 
 .page-template-page-about .container {

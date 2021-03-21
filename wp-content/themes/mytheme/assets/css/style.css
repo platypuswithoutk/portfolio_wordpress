@@ -704,6 +704,9 @@ img.img {
 .portfolio_card h3:focus-within ~ .cta {
   box-shadow: 0 0 0 0.125rem; }
 
+.page-template-page-about #about-desc {
+  padding-bottom: 70px; }
+
 .page-template-page-about h2 {
   text-align: center;
   font-size: 24px;
@@ -727,7 +730,9 @@ img.img {
 .page-template-page-about p {
   font-size: 14px;
   line-height: 26px;
-  margin: 0; }
+  margin: 0;
+  text-align: left;
+  padding-bottom: 13px; }
 
 .page-template-page-about .container {
   width: 100%;
