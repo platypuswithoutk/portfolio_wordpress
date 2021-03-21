@@ -2,6 +2,10 @@
   padding-bottom: 70px;
 }
 
+.page-template-page-about #photo {
+  text-align: center;
+}
+
 .page-template-page-about h2 {
   text-align: center;
   font-size: 24px;

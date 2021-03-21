@@ -572,12 +572,14 @@ button.button.type3.link {
 
 .portfolio_items {
   list-style: none;
-  width: 100%;
-  max-width: 1200px;
+  overflow: hidden;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0;
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
   padding-bottom: 30px; }
 
 .portfolio_card {
@@ -706,6 +708,9 @@ img.img {
 
 .page-template-page-about #about-desc {
   padding-bottom: 70px; }
+
+.page-template-page-about #photo {
+  text-align: center; }
 
 .page-template-page-about h2 {
   text-align: center;

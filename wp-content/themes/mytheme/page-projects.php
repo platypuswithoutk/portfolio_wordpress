@@ -56,8 +56,8 @@
                                 <img class="img" src="https://via.placeholder.com/544x361.png" alt="I am an example of a work image"></a>
                             </figure>
                             <div class="caption">
-                                <a href="" target="_blank" title="Multidom" aria-describedby="desc-multidom"><h3>Multidom</h3></a>
-                                <p>Strona interentowa dla firmy Multidom</p>
+                                <a href="" target="_blank" title="Multidom" aria-describedby="desc-multidom"><h3>KARIAM</h3></a>
+                                <p>Sklep z biżuterią KARIAM</p>
                                 <span class="cta" aria-hidden="true" id="desc-multidom">Przejdź na stronę internetową</span>
                             </div>
                         </li>
