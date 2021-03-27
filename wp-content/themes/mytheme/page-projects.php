@@ -68,6 +68,60 @@
 
         <div class="row private">
             <div class="section_title no"><h2>Projekty niekomerycjne</h2></div>
+            <div class="col-12">
+                <div class="projects__item">
+                    <ul class="portfolio_items">
+                        <li class="portfolio_card" id="smart">
+                            <figure>
+                                <a href="https://smartelectric.pl/"><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/smart1.png'; ?>" alt="I am an example of a work image"></a>
+                            </figure>
+                            <div class="caption">
+                                <a href="https://smartelectric.pl/" target="_blank" title="Smart Electric" aria-describedby="desc-smart"><h3>Smart Electric</h3></a>
+                                <p>Strona interentowa dla firmy Smart Electric</p>
+                                <span class="cta" aria-hidden="true" id="desc-smart">Przejdź na stronę internetową</span>
+                            </div>
+                        </li>
+                        <li class="portfolio_card" id="rehabilitacja">
+                            <figure>
+                                <a href="rehabilitacja-kr.pl "><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/covid(2).png'; ?>" alt="Rehabilitacja Covid"></a>
+                            </figure>
+                            <div class="caption">
+                                <a href="rehabilitacja-kr.pl" target="_blank" title="Rehabilitacja Covid" aria-describedby="desc-rehabilitacja"><h3>Rehabilitacja Covid</h3></a>
+                                <p>Strona interentowa dla firmy oferującej rehabilitację oddechową</p>
+                                <span class="cta" aria-hidden="true" id="desc-rehabilitacja">Przejdź na stronę internetową</span>
+                            </div>
+                        </li>
+                    </ul>   
+                </div>
+            </div>
+
+            <div class="col-12">
+                <div class="projects__item">
+                    <ul class="portfolio_items">
+                        <li class="portfolio_card" id="smart">
+                            <figure>
+                                <a href="https://smartelectric.pl/"><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/smart1.png'; ?>" alt="I am an example of a work image"></a>
+                            </figure>
+                            <div class="caption">
+                                <a href="https://smartelectric.pl/" target="_blank" title="Smart Electric" aria-describedby="desc-smart"><h3>Smart Electric</h3></a>
+                                <p>Strona interentowa dla firmy Smart Electric</p>
+                                <span class="cta" aria-hidden="true" id="desc-smart">Przejdź na stronę internetową</span>
+                            </div>
+                        </li>
+                        <li class="portfolio_card" id="rehabilitacja">
+                            <figure>
+                                <a href="rehabilitacja-kr.pl "><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/covid(2).png'; ?>" alt="Rehabilitacja Covid"></a>
+                            </figure>
+                            <div class="caption">
+                                <a href="rehabilitacja-kr.pl" target="_blank" title="Rehabilitacja Covid" aria-describedby="desc-rehabilitacja"><h3>Rehabilitacja Covid</h3></a>
+                                <p>Strona interentowa dla firmy oferującej rehabilitację oddechową</p>
+                                <span class="cta" aria-hidden="true" id="desc-rehabilitacja">Przejdź na stronę internetową</span>
+                            </div>
+                        </li>
+                    </ul>   
+                </div>
+            </div>
+
         </div>
     </div>
 
