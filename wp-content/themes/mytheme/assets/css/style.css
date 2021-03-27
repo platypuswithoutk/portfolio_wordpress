@@ -659,7 +659,8 @@ img.img {
   object-fit: cover; }
 
 .portfolio_card a, .portfolio_card a:visited {
-  text-decoration: none; }
+  text-decoration: none;
+  outline: none; }
 
 .portfolio_card a:after {
   content: '';
