@@ -671,7 +671,7 @@ img.img {
   bottom: 0;
   z-index: 999; }
 
-#smart:after, #rehabilitacja:after {
+#smart:after, #rehabilitacja:after, #april:after, #multidom:after {
   width: 544px;
   height: 39px;
   color: #6d2f2f;
@@ -683,10 +683,18 @@ img.img {
   padding-left: 10px; }
 
 #smart:after {
-  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, JS, Wordpress (ACF), RWD'; }
+  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, JS, Wordpress (ACF), RWD';
+  padding-left: 20px; }
 
 #rehabilitacja:after {
   content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD'; }
+
+#april:after {
+  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD';
+  padding-left: 20px; }
+
+#multidom:after {
+  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD, JS, WooCommerce'; }
 
 .portfolio_card:hover figure .img {
   transform: scale(1.25); }
