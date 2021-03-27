@@ -18,7 +18,6 @@ header #menu_style .logo img {
 header #menu_style .menu__list {
   display: flex;
   justify-content: flex-end;
-  align-items: center;
 }
 
 header #menu_style .menu__list #menu-menu-1 {

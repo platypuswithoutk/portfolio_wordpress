@@ -455,8 +455,7 @@ header {
       max-width: 100%; }
     header #menu_style .menu__list {
       display: flex;
-      justify-content: flex-end;
-      align-items: center; }
+      justify-content: flex-end; }
       header #menu_style .menu__list #menu-menu-1 {
         display: flex; }
         header #menu_style .menu__list #menu-menu-1 li {
@@ -683,7 +682,7 @@ img.img {
   padding-left: 10px; }
 
 #smart:after {
-  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD'; }
+  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, JS, Wordpress (ACF), RWD'; }
 
 #rehabilitacja:after {
   content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD'; }
