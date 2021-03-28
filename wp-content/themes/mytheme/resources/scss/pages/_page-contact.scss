@@ -34,4 +34,14 @@
             border-bottom: 2px solid black;
         }
     }
+
+    button.button.type3.link {
+        margin: 0px;
+    }
+
+    .wpcf7-form-control.wpcf7-submit {
+        background: transparent;
+        border: none !important;
+        position: absolute;
+    }
 }
