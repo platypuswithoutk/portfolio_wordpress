@@ -18,7 +18,7 @@ get_header();
       <p>Napisz: roksana.dzioba@gmail.com</p>
     </div>
     <div class="col-6">
-      <p>Skontaktuj się poprzez formularz</p>
+      <p>Skontaktuj się poprzez formularz:</p>
     </div>
   </div>
 </div>
