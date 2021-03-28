@@ -19,6 +19,7 @@ get_header();
     </div>
     <div class="col-6">
       <p>Skontaktuj się poprzez formularz:</p>
+      <?php echo do_shortcode('[name_of_shortcode]'); ?>
     </div>
   </div>
 </div>
