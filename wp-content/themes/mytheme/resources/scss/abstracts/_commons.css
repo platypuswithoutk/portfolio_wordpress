@@ -2,7 +2,7 @@
   padding-top: 45px;
 }
 
-.buttons .button {
+.button {
   position: relative;
   padding: 1em 1.5em;
   border: none;
@@ -14,11 +14,11 @@
   margin: 1em 0.8em;
 }
 
-.buttons .button.type3 {
+.button.type3 {
   color: #545454;
 }
 
-.buttons .button.type3::after, .buttons .button.type3::before {
+.button.type3::after, .button.type3::before {
   content: '';
   display: block;
   position: absolute;
@@ -29,7 +29,7 @@
   border-radius: 2px;
 }
 
-.buttons .button.type3::after {
+.button.type3::after {
   bottom: 0;
   right: 0;
   border-top-color: transparent;
@@ -38,7 +38,7 @@
   border-right-color: #91b3fa;
 }
 
-.buttons .button.type3::before {
+.button.type3::before {
   top: 0;
   left: 0;
   border-bottom-color: transparent;
@@ -47,7 +47,7 @@
   border-left-color: #91b3fa;
 }
 
-.buttons .button.type3:hover:after, .buttons .button.type3:hover:before {
+.button.type3:hover:after, .button.type3:hover:before {
   border-bottom-color: #91b3fa;
   border-right-color: #91b3fa;
   border-top-color: #ff5757;

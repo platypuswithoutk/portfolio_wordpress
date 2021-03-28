@@ -11,3 +11,21 @@
   text-align: left;
   padding-bottom: 13px;
 }
+
+.page-template-page-contact p.form-start {
+  padding-bottom: 50px;
+}
+
+.page-template-page-contact form input, .page-template-page-contact form textarea {
+  font-family: 'Jost';
+}
+
+.page-template-page-contact .wpcf7-form.init p {
+  padding-bottom: 15px;
+  line-height: 5px;
+}
+
+.page-template-page-contact .wpcf7-form.init input, .page-template-page-contact .wpcf7-form.init textarea {
+  border: none;
+  border-bottom: 2px solid black;
+}

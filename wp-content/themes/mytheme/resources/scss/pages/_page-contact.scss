@@ -12,4 +12,26 @@
         text-align: left;
         padding-bottom: 13px;
     }
+
+    p.form-start {
+        padding-bottom: 50px;
+    }
+
+    form {
+        input, textarea {
+            font-family: 'Jost';
+        }
+    }
+
+    .wpcf7-form.init {
+        p {
+            padding-bottom: 15px;
+            line-height: 5px;
+        }
+
+        input, textarea {
+            border: none;
+            border-bottom: 2px solid black;
+        }
+    }
 }

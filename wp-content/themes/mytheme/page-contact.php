@@ -18,7 +18,7 @@ get_header();
       <p>Napisz: roksana.dzioba@gmail.com</p>
     </div>
     <div class="col-6">
-      <p>Skontaktuj się poprzez formularz:</p>
+      <p class="form-start">Skontaktuj się poprzez formularz:</p>
       <?php echo do_shortcode('[contact-form-7 id="37" title="Contact form 1"]'); ?>
     </div>
   </div>
