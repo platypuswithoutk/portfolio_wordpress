@@ -10,21 +10,18 @@
 get_header();
 ?>
 
-<main>
-  <h1>Page</h1>
-  <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-  <article>
-    <div class="row">
-      <div class="col-12">
-        <h1><?php the_title(); ?></h1>
-        <div><?php the_content(); ?></div>
-      </div>
+<div class="container" id="contact">
+<h2>Zapraszam do kontaktu</h2>
+  <div class="row">
+    <div class="col-6">
+      <p>Zadzwoń: 505 015 696</p>
+      <p>Napisz: roksana.dzioba@gmail.com</p>
     </div>
-  </article>
-  <?php endwhile; else: ?>
-    <p><?php _e('Nie znaleziono postów spełniających podane kryteria.'); ?></p>
-  <?php endif; ?>
-</main>
+    <div class="col-6">
+      <p>Skontaktuj się poprzez formularz</p>
+    </div>
+  </div>
+</div>
 
 <?php
 get_footer();
