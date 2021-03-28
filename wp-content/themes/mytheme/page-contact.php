@@ -11,7 +11,7 @@ get_header();
 ?>
 
 <div class="container" id="contact">
-<h2>Zapraszam do kontaktu</h2>
+<h2>Jeżeli jesteś zainteresowany współpracą, zapraszam do kontaktu</h2>
   <div class="row">
     <div class="col-6">
       <p>Zadzwoń: 505 015 696</p>
@@ -19,7 +19,7 @@ get_header();
     </div>
     <div class="col-6">
       <p>Skontaktuj się poprzez formularz:</p>
-      <?php echo do_shortcode('[name_of_shortcode]'); ?>
+      <?php echo do_shortcode('[contact-form-7 id="37" title="Contact form 1"]'); ?>
     </div>
   </div>
 </div>
