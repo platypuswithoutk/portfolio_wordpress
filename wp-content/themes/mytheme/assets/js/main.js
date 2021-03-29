@@ -103,9 +103,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _scs
   !*** ./resources/scss/style.scss ***!
   \***********************************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./resources/scss/style.scss?");
+eval("throw new Error(\"Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):\\nModuleBuildError: Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\\nSassError: Invalid CSS after \\\"    content:\\\": expected expression (e.g. 1px, bold), was \\\"'Stack: HTML, CSS, \\\"\\n        on line 153 of resources/scss/pages/_page-projects.scss\\n        from line 14 of C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\resources\\\\scss\\\\style.scss\\n>>     content: 'Stack: HTML, CSS, JS, jQuery, RWD;\\r\\n   -------------^\\n\\n    at runLoaders (C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\node_modules\\\\webpack\\\\lib\\\\NormalModule.js:316:20)\\n    at C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:367:11\\n    at C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:233:18\\n    at context.callback (C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:111:13)\\n    at Object.render [as callback] (C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\node_modules\\\\sass-loader\\\\dist\\\\index.js:73:7)\\n    at Object.done [as callback] (C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\node_modules\\\\neo-async\\\\async.js:8069:18)\\n    at options.error (C:\\\\xampp\\\\htdocs\\\\portfolio\\\\wp-content\\\\themes\\\\mytheme\\\\node_modules\\\\node-sass\\\\lib\\\\index.js:294:32)\");\n\n//# sourceURL=webpack:///./resources/scss/style.scss?");
 
 /***/ })
 

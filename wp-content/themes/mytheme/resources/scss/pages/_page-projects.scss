@@ -49,7 +49,7 @@
     border-top: 4px solid #B0A96A;
 }
 
-#multidom {
+#portfolio {
     border-top: 4px solid #FCDBBD;
 }
 
@@ -123,7 +123,7 @@ img.img {
     z-index:999;
 }
 
-#smart:after, #rehabilitacja:after, #april:after, #multidom:after {
+#smart:after, #rehabilitacja:after, #april:after, #portfolio:after {
     width: 544px;
     height: 39px;
     color: #6d2f2f;
@@ -149,8 +149,8 @@ img.img {
     padding-left: 20px;
 }
 
-#multidom:after {
-    content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD, JS, WooCommerce';
+#portfolio:after {
+    content: 'Stack: HTML, CSS, JS, jQuery, RWD;
 }
 
 // .portfolio_card:hover {

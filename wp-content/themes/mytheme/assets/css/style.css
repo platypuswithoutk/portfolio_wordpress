@@ -604,7 +604,7 @@ button.button.type3.link {
 #april {
   border-top: 4px solid #B0A96A; }
 
-#multidom {
+#portfolio {
   border-top: 4px solid #FCDBBD; }
 
 .portfolio_card .caption {
@@ -672,7 +672,7 @@ img.img {
   bottom: 0;
   z-index: 999; }
 
-#smart:after, #rehabilitacja:after, #april:after, #multidom:after {
+#smart:after, #rehabilitacja:after, #april:after, #portfolio:after {
   width: 544px;
   height: 39px;
   color: #6d2f2f;
