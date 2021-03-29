@@ -64,3 +64,11 @@
     text-align: center;
   }
 }
+
+@media screen and (max-width: 425px) {
+  input[type=text],
+  input[type=email],
+  textarea {
+    width: 80%;
+  }
+}

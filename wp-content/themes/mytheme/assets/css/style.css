@@ -909,6 +909,12 @@ img.img {
     #contact #wpcf7-f37-o1 p, #contact p.form-start {
       text-align: center; } }
 
+@media screen and (max-width: 425px) {
+  input[type=text],
+  input[type=email],
+  textarea {
+    width: 80%; } }
+
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
