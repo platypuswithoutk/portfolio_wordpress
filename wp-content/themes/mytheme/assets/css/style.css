@@ -869,6 +869,9 @@ img.img {
 .page-template-page-contact #contact-data a:hover {
   color: #7ea3fa; }
 
+.page-template-page-contact #contact-data img {
+  max-width: 100%; }
+
 .page-template-page-contact p {
   font-size: 14px;
   line-height: 26px;
@@ -897,6 +900,14 @@ img.img {
   background: transparent;
   border: none !important;
   position: absolute; }
+
+@media screen and (max-width: 767px) {
+  #contact {
+    margin-top: -60px; }
+    #contact img {
+      margin-top: -50px; }
+    #contact #wpcf7-f37-o1 p, #contact p.form-start {
+      text-align: center; } }
 
 * {
   -webkit-font-smoothing: antialiased;

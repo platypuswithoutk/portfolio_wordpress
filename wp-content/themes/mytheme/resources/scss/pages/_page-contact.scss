@@ -14,6 +14,10 @@
         a:hover {
             color:#7ea3fa;
         }
+
+        img {
+            max-width: 100%;
+        }
     }
 
     p {
@@ -54,5 +58,19 @@
         background: transparent;
         border: none !important;
         position: absolute;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #contact {
+        margin-top: -60px;
+
+        img {
+            margin-top: -50px;
+        }
+
+        #wpcf7-f37-o1 p, p.form-start {
+            text-align: center;
+        }
     }
 }

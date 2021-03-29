@@ -13,6 +13,10 @@
   color: #7ea3fa;
 }
 
+.page-template-page-contact #contact-data img {
+  max-width: 100%;
+}
+
 .page-template-page-contact p {
   font-size: 14px;
   line-height: 26px;
@@ -47,4 +51,16 @@
   background: transparent;
   border: none !important;
   position: absolute;
+}
+
+@media screen and (max-width: 767px) {
+  #contact {
+    margin-top: -60px;
+  }
+  #contact img {
+    margin-top: -50px;
+  }
+  #contact #wpcf7-f37-o1 p, #contact p.form-start {
+    text-align: center;
+  }
 }

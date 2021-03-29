@@ -96,7 +96,7 @@ get_header();
 				<div class="timeline-blank"></div>
 				<div class="timeline-text d-flex-2">
 					<span>
-						<h6>Wrzesień 2015 - Maj 2017</h6> Barista/Barman, Wentzl, Kraków
+						<h6>Wrzesień 2015 - Maj 2017</h6> Barista/Barman, Słodki Wentzl, Kraków
 					</span>
 					<div class="t-square"></div>
 				</div>
