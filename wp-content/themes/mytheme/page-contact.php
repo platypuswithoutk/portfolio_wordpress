@@ -13,9 +13,9 @@ get_header();
 <div class="container" id="contact">
 <h2>Jeżeli jesteś zainteresowany współpracą, zapraszam do kontaktu</h2>
   <div class="row">
-    <div class="col-6">
-      <p>Zadzwoń: 505 015 696</p>
-      <p>Napisz: roksana.dzioba@gmail.com</p>
+    <div class="col-6" id="contact-data">
+      <p>Zadzwoń: <a href="tel:">505 015 696</a></p>
+      <p>Napisz: <a href="mailto:">roksana.dzioba@gmail.com</a></p>
     </div>
     <div class="col-6">
       <p class="form-start">Skontaktuj się poprzez formularz:</p>
