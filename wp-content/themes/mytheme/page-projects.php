@@ -72,14 +72,14 @@
             <div class="col-12">
                 <div class="projects__item">
                     <ul class="portfolio_items">
-                        <li class="portfolio_card" id="weather">
+                        <li class="portfolio_card" id="weatherapp">
                             <figure>
                                 <a href="https://platypuswithoutk.github.io/weather_APP/"><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/weatherapp.png'; ?>" alt="I am an example of a work image"></a>
                             </figure>
                             <div class="caption">
-                                <a href="https://platypuswithoutk.github.io/weather_APP/" target="_blank" title="Smart Electric" aria-describedby="desc-smart"><h3>Weather App</h3></a>
+                                <a href="https://platypuswithoutk.github.io/weather_APP/" target="_blank" title="weatherapp" aria-describedby="desc-weatherapp"><h3>Weather App</h3></a>
                                 <p>Aplikacja informująca o aktualnej pogodzie oraz prognozie na kolejne dni</p>
-                                <span class="cta" aria-hidden="true" id="desc-smart">Przejdź na stronę internetową</span>
+                                <span class="cta" aria-hidden="true" id="desc-weatherapp">Przejdź na stronę internetową</span>
                             </div>
                         </li>
                         <li class="portfolio_card" id="react">
@@ -87,9 +87,9 @@
                                 <a href="https://platypuswithoutk.github.io/react-quizApp/ "><img class="img" src="<?php echo get_template_directory_uri(); ?>/assets/img/react.png'; ?>" alt="Rehabilitacja Covid"></a>
                             </figure>
                             <div class="caption">
-                                <a href="https://platypuswithoutk.github.io/react-quizApp/" target="_blank" title="Rehabilitacja Covid" aria-describedby="desc-rehabilitacja"><h3>React Quiz</h3></a>
+                                <a href="https://platypuswithoutk.github.io/react-quizApp/" target="_blank" title="React" aria-describedby="desc-react"><h3>React Quiz</h3></a>
                                 <p>Quiz sprawdzający wiedzę o Reakcie</p>
-                                <span class="cta" aria-hidden="true" id="desc-rehabilitacja">Przejdź na stronę internetową</span>
+                                <span class="cta" aria-hidden="true" id="desc-react">Przejdź na stronę internetową</span>
                             </div>
                         </li>
                     </ul>   

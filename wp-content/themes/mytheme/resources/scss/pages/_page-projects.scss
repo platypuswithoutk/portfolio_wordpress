@@ -53,6 +53,14 @@
     border-top: 4px solid #FCDBBD;
 }
 
+#weatherapp {
+    border-top: 4px solid #B0A96A;
+}
+
+#react {
+    border-top: 4px solid #B09D8D;
+}
+
 .portfolio_card .caption {
     text-align:center;
     padding:16px;
@@ -89,6 +97,13 @@
     transition: all .25s cubic-bezier(.02, .01, .47, 1);
 }
 
+.portfolio_card#react, .portfolio_card#weatherapp {
+    height: 445px;
+    figure {
+        height:300px;
+    }
+}
+
 .portfolio_card figure {
     overflow:hidden;
     margin:0;
@@ -123,7 +138,7 @@ img.img {
     z-index:999;
 }
 
-#smart:after, #rehabilitacja:after, #april:after, #portfolio:after {
+#smart:after, #rehabilitacja:after, #april:after, #portfolio:after, #weatherapp:after, #react:after {
     width: 544px;
     height: 39px;
     color: #6d2f2f;
@@ -144,18 +159,26 @@ img.img {
     content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD';
 }
 
+#weatherapp:after {
+    content: 'Stack: HTML, CSS, JS, WEB API, RWD';
+}
+
+#react:after {
+    content: 'Stack: HTML, CSS, JS, React, React Hooks, RWD ';
+}
+
 #april:after {
     content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD';
     padding-left: 20px;
 }
 
 #portfolio:after {
-    content: 'Stack: HTML, CSS, JS, jQuery, RWD;
+    content: 'Stack: HTML, CSS, JS, jQuery, RWD';
 }
 
-// .portfolio_card:hover {
-//     box-shadow: 0 0 0 0 0.25rem;
-// }
+.portfolio_card:hover {
+    box-shadow: 0 0 0 0 0.25rem;
+}
 
 .portfolio_card:hover figure .img{
     transform:scale(1.25);
