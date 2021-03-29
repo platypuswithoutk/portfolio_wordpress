@@ -699,17 +699,18 @@ img.img {
   padding-left: 20px; }
 
 #rehabilitacja:after {
-  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD'; }
+  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD';
+  padding-left: 20px; }
 
 #weatherapp:after {
-  content: 'Stack: HTML, CSS, JS, WEB API, RWD'; }
+  content: 'Stack: HTML, CSS, JS, WEB API, RWD';
+  padding-left: 20px; }
 
 #react:after {
   content: 'Stack: HTML, CSS, JS, React, React Hooks, RWD '; }
 
 #april:after {
-  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD';
-  padding-left: 20px; }
+  content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD'; }
 
 #portfolio:after {
   content: 'Stack: HTML, CSS, JS, jQuery, RWD'; }

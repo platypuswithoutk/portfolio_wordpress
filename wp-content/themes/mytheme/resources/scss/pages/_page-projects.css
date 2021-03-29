@@ -166,10 +166,12 @@ img.img {
 
 #rehabilitacja:after {
   content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD';
+  padding-left: 20px;
 }
 
 #weatherapp:after {
   content: 'Stack: HTML, CSS, JS, WEB API, RWD';
+  padding-left: 20px;
 }
 
 #react:after {
@@ -178,7 +180,6 @@ img.img {
 
 #april:after {
   content: 'Stack: HTML, SCSS, Bootstrap, jQuery, Wordpress (ACF), RWD';
-  padding-left: 20px;
 }
 
 #portfolio:after {
