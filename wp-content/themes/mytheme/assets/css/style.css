@@ -863,7 +863,8 @@ img.img {
   padding-bottom: 70px; }
 
 .page-template-page-contact #contact-data p {
-  font-size: 18px; }
+  font-size: 18px;
+  text-align: center; }
 
 .page-template-page-contact #contact-data a:hover {
   color: #7ea3fa; }
